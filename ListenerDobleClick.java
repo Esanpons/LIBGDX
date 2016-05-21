@@ -21,5 +21,6 @@ public class ListenerDobleClick extends ClickListener {
 
 
         }
+        lastClickTime = clickTime;
     }
 }
