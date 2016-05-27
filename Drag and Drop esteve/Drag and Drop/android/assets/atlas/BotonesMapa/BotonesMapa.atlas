@@ -1,0 +1,33 @@
+
+BotonesMapa.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BotonRojoDown
+  rotate: false
+  xy: 1, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+BotonRojoUp
+  rotate: false
+  xy: 35, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+BotonVerdeDown
+  rotate: false
+  xy: 69, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+BotonVerdeUp
+  rotate: false
+  xy: 103, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1

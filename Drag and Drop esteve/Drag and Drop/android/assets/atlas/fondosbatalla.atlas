@@ -1,0 +1,61 @@
+
+fondosbatalla.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bosque
+  rotate: false
+  xy: 1, 2053
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Cementerio
+  rotate: false
+  xy: 1, 1027
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Fuego
+  rotate: false
+  xy: 1027, 2053
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Infierno
+  rotate: false
+  xy: 1, 1
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Mar
+  rotate: false
+  xy: 1027, 1027
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Matrix
+  rotate: false
+  xy: 2053, 2053
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Mostruoso
+  rotate: false
+  xy: 1027, 1
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+Sangre
+  rotate: false
+  xy: 2053, 1027
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
