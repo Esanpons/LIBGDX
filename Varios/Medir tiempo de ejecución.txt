@@ -1,0 +1,7 @@
+	long time_start, time_end;
+        time_start = System.currentTimeMillis();
+	//********************************//
+	//poner aqui el metodo a caulcular//
+	//********************************//
+        time_end = System.currentTimeMillis();
+        System.out.println("Han pasado: "+ ( time_end - time_start ) +" milliseconds");
